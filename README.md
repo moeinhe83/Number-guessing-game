@@ -8,7 +8,7 @@ Description Of Files:
 
 guess.py => For Run ===> python guess.py
 
-Required packages for python ===> os / random / datetime / pyfiglet / termcolor2
+Required Packages for python ===> os / random / datetime / pyfiglet / termcolor2
 
 pyfiglet ===> to install => pip install pyfiglet
 
