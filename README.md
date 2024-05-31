@@ -10,6 +10,6 @@ guess.py => For Run ===> python guess.py
 
 Required Packages For Python ===> os / random / datetime / pyfiglet / termcolor2
 
-pyfiglet ===> To install => pip install pyfiglet
+pyfiglet ===> To Install => pip install pyfiglet
 
 termcolor2 ===> to install => pip install termcolor2
