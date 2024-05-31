@@ -12,4 +12,4 @@ Required Packages For Python ===> os / random / datetime / pyfiglet / termcolor2
 
 pyfiglet ===> To Install => pip install pyfiglet
 
-termcolor2 ===> to install => pip install termcolor2
+termcolor2 ===> To install => pip install termcolor2
